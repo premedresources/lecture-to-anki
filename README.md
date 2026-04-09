@@ -1,5 +1,14 @@
 # lecture-to-anki
 
+DISCLAIMER: I make no guarantees about accuracy, etc. You use this at your own risk.
+
+##If this page is big scary and you've never been on Github before READ THIS: 
+1. Go to claude.ai.
+2. Make an account.
+3. Pay for $20/month subscription.
+4. Install Claude on the desktop of your computer. This won't work on your phone.
+5. Paste the following prompt into Claude: "Please install the lecture-to-anki skill from this GitHub repo: https://raw.githubusercontent.com/YOUR_USERNAME/lecture-to-anki/main/. Fetch SKILL.md, references/20-rules.md, references/card-patterns.md, and references/source-processing.md and write them to /mnt/skills/user/lecture-to-anki/ using your file tools."
+
 A Claude skill that converts a professor's lecture slide deck (PDF) and your own lecture notes into a complete, high-quality Anki deck — automatically.
 
 Built for pre-med students who want cards that reflect what their professor actually expects them to know.
