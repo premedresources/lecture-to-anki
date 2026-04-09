@@ -2,7 +2,7 @@
 
 DISCLAIMER: I make no guarantees about accuracy, etc. You use this at your own risk.
 
-##If this page is big scary and you've never been on Github before READ THIS: 
+## If this page is big scary and you've never been on Github before READ THIS: 
 1. Go to claude.ai.
 2. Make an account.
 3. Pay for $20/month subscription.
