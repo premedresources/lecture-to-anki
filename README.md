@@ -9,6 +9,8 @@ DISCLAIMER: I make no guarantees about accuracy, etc. You use this at your own r
 4. Install Claude on the desktop of your computer. This won't work on your phone.
 5. Log into Claude on your desktop.
 6. Paste the following prompt into Claude: "Please install the lecture-to-anki skill from this GitHub repo: https://raw.githubusercontent.com/premedresources/lecture-to-anki/main/. Fetch SKILL.md, references/20-rules.md, references/card-patterns.md, and references/source-processing.md and write them to /mnt/skills/user/lecture-to-anki/ using your file tools."
+7. Once that's done, you should be able to give it two files by dragging and dropping them to a new chat (or by hitting the + in the dialogue box) and asking it to please make you anki cards using the lecture-to-anki skill.
+8. It should return three files - a file of QA (standard style) Anki cards, a file of Cloze style Anki cards, and a pdf of any diagrams in your lecture deck. The PDF of the diagrams is so you can make Image Occlusion cards of the diagrams, if you'd like.
 
 A Claude skill that converts a professor's lecture slide deck (PDF) and your own lecture notes into a complete, high-quality Anki deck — automatically.
 
